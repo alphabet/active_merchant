@@ -99,10 +99,14 @@ exact:
 federated_canada:
   login: demo
   password: password
-
+    
+first_data:
+  login: A00140-01
+  password: dYg_vnh8
+    
 first_pay:
-  login:
-  password:
+  login: 
+  password: 
     
 garanti:
   login: "PROVAUT"

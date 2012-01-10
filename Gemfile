@@ -1,6 +1,11 @@
 source :rubygems
 gemspec
 
+gem 'rubigen'
+gem 'ruby-debug19'
+#gem 'linecache'
+#gem 'rake', '0.8.7'
+
 group :test do
   gem 'json-jruby', :platforms => :jruby
   gem 'jruby-openssl', :platforms => :jruby
